@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">scanner</string>
+    <string name="setting_btn_url">首页</string>
+    <string name="setting_btn_refresh">刷新</string>
+    <string name="editor_title">请输入首页地址：</string>
+    <string name="editor_btn_save">保存</string>
+    <string name="editor_btn_cancel">取消</string>
+    <string name="setting_btn_moni">模拟传参</string>
+    <string name="js_title">输入数据传给JS函数aaa():</string>
+    <string name="js_btn_send">传参</string>
+</resources>
